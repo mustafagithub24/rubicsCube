@@ -1,0 +1,15 @@
+D:\githup projelerim\RubicsCube_WindowsFormsApp\bin\Debug\RubicsCube_WindowsFormsApp.exe.config
+D:\githup projelerim\RubicsCube_WindowsFormsApp\bin\Debug\RubicsCube_WindowsFormsApp.exe
+D:\githup projelerim\RubicsCube_WindowsFormsApp\bin\Debug\RubicsCube_WindowsFormsApp.pdb
+D:\githup projelerim\RubicsCube_WindowsFormsApp\obj\Debug\RubicsCube_WindowsFormsApp.csproj.AssemblyReference.cache
+D:\githup projelerim\RubicsCube_WindowsFormsApp\obj\Debug\RubicsCube_WindowsFormsApp.Form1.resources
+D:\githup projelerim\RubicsCube_WindowsFormsApp\obj\Debug\RubicsCube_WindowsFormsApp.Properties.Resources.resources
+D:\githup projelerim\RubicsCube_WindowsFormsApp\obj\Debug\RubicsCube_WindowsFormsApp.csproj.GenerateResource.cache
+D:\githup projelerim\RubicsCube_WindowsFormsApp\obj\Debug\RubicsCube_WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\githup projelerim\RubicsCube_WindowsFormsApp\obj\Debug\RubicsCube_WindowsFormsApp.exe
+D:\githup projelerim\RubicsCube_WindowsFormsApp\obj\Debug\RubicsCube_WindowsFormsApp.pdb
+D:\githup projelerim\RubicsCube_WindowsFormsApp\bin\Debug\MathNet.Numerics.dll
+D:\githup projelerim\RubicsCube_WindowsFormsApp\bin\Debug\System.ValueTuple.dll
+D:\githup projelerim\RubicsCube_WindowsFormsApp\bin\Debug\MathNet.Numerics.xml
+D:\githup projelerim\RubicsCube_WindowsFormsApp\bin\Debug\System.ValueTuple.xml
+D:\githup projelerim\RubicsCube_WindowsFormsApp\obj\Debug\RubicsCube_WindowsFormsApp.csproj.CopyComplete
